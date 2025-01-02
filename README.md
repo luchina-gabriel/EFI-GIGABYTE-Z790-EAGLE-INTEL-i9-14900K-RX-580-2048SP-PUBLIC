@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z790 Eagle, Intel Core i9 14900K, AMD Radeon RX 570 (RX 580 2048SP Mod)
 
+<img width="1692" alt="Overview" src="https://github.com/user-attachments/assets/dcc9a9e2-d485-45bd-8818-ed5e651f3f45" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.2)
